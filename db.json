@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "super title",
+      "author": "john smith"
+    },
+    {
+      "id": 2,
+      "title": "test-title",
+      "author": "anna"
+    },
+    {
+      "id": "3",
+      "title": "test-title",
+      "author": "Api test"
+    },
+    {
+      "id": "4",
+      "title": "test-title",
+      "author": "Api Test"
+    },
+    {
+      "id": "5",
+      "author": "post test",
+      "title": "post"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "Tetiana",
+    "postId": "4"
+  }
+}
