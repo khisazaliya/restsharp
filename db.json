@@ -2,13 +2,13 @@
   "posts": [
     {
       "id": 1,
-      "title": "super title",
-      "author": "john smith"
+      "title": "test-azalia",
+      "author": "azalia"
     },
     {
       "id": 2,
-      "title": "test-title",
-      "author": "anna"
+      "title": "test-azalia",
+      "author": "azalia"
     },
     {
       "id": "3",
@@ -22,8 +22,8 @@
     },
     {
       "id": "5",
-      "author": "post test",
-      "title": "post"
+      "title": "post test",
+      "author": "test"
     }
   ],
   "comments": [
